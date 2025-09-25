@@ -25,6 +25,8 @@ Add an [OpenAI API key](https://platform.openai.com/account/api-keys) in Chat St
 
 AI notes are colored purple, and tagged with `chat_role=assistant` in the canvas data file.
 
+For a detailed overview of how Chat Stream interacts with Obsidian Canvas and the OpenAI API, see [Architecture](docs/architecture.md).
+
 ## Development
 
 1. Download source and install dependencies
